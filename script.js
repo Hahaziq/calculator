@@ -64,9 +64,9 @@ google.charts.setOnLoadCallback(function () {
   
 // Define discount mapping object
 const couponDiscounts = {
-  SUMMER2023: 0.05,     // 5% discount
-  DISCOUNT50: 0.1,      // 10% discount
-  SALE10: 0.15          // 15% discount
+  WEEK14: 0.05,     // 5% discount
+  FYP: 0.1,      // 10% discount
+  LASTMINUTE: 0.15          // 15% discount
 };
 
 // Validate the coupon code
